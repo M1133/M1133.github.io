@@ -255,7 +255,7 @@ h1 span img {
   width: 20rem;
   height: 20rem;
   /*background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/hover-reveal.jpg") 50% 50% no-repeat fixed;*/
-  background: url("./hover-reveal.jpg") 50% 50% no-repeat fixed;
+  background: url("./hover-reveal.jpeg") 50% 50% no-repeat fixed;
   background-size: cover;
   border-radius: 50%;
 }
