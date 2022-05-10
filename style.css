@@ -209,6 +209,8 @@ html, body {
   transform: rotate(90deg) translate(0,-50%);
   position: absolute;
   top: 50%;
+  text-shadow: #1d1f20 1px 0 10px;
+  
 }
 
 .scene {
@@ -256,6 +258,7 @@ h1 span img {
   height: 20rem;
   /*background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/hover-reveal.jpg") 50% 50% no-repeat fixed;*/
   background: url("./hover-reveal.jpeg") 50% 50% no-repeat fixed;
+
   background-size: cover;
   border-radius: 50%;
 }
@@ -1263,6 +1266,7 @@ textarea.input100 {
     top: 50%;
     transform: translate(0, -50%) rotate(-90deg);
     z-index: 11;
+
   }
   .contact-us {
     position: absolute;
@@ -1271,6 +1275,7 @@ textarea.input100 {
     top: 50%;
     transform: translate(0, -50%) rotate(90deg);
     z-index: 11;
+    text-shadow: #1d1f20 1px 0 10px;
   }
   .popup-contact__half {
     width: 100%;
@@ -1332,6 +1337,7 @@ textarea.input100 {
     top: unset;
     bottom: 6%;
     transform: translate(50%, 0%) rotate(0deg);
+    text-shadow: #1d1f20 1px 0 10px;
   }
   .scene h1 {
     font-size: 30px;
